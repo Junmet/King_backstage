@@ -1,0 +1,9 @@
+.el-menu {
+  border-right: none !important;
+}
+.el-menu-item {
+  background-color: #2f4357 !important;
+}
+.el-menu-item:hover {
+  background-color: #f56c6c !important;
+}
